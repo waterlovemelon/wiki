@@ -2,3 +2,7 @@
 ## git操作不走代理
 git config --global --unset https.proxy
 git config --global --unset http.proxy
+
+## 开启wayland debug日志
+在终端：export WAYLAND_DEBUG=1
+程序：qsetenv("WAYLAND_DEBUG","1");
