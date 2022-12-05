@@ -163,4 +163,6 @@ exit 1
 
 ```
 
+## 自定义终端主题的颜色
 
+主题安装在/usr/share/terminalwidget5/color-schemes/目录下，Theme1、Theme2... 编号对应终端主题列表的1、2...；编辑这些主题修改对应的颜色值即可
